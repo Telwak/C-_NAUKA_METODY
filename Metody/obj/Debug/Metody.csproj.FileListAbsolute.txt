@@ -1,0 +1,6 @@
+c:\users\tomtel\documents\visual studio 2015\Projects\Metody\Metody\bin\Debug\Metody.exe.config
+c:\users\tomtel\documents\visual studio 2015\Projects\Metody\Metody\bin\Debug\Metody.exe
+c:\users\tomtel\documents\visual studio 2015\Projects\Metody\Metody\bin\Debug\Metody.pdb
+c:\users\tomtel\documents\visual studio 2015\Projects\Metody\Metody\obj\Debug\Metody.csprojResolveAssemblyReference.cache
+c:\users\tomtel\documents\visual studio 2015\Projects\Metody\Metody\obj\Debug\Metody.exe
+c:\users\tomtel\documents\visual studio 2015\Projects\Metody\Metody\obj\Debug\Metody.pdb
